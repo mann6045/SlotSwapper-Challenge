@@ -1,0 +1,19 @@
+# .gitignore
+
+# --- Node.js ---
+# Ignore all node_modules folders
+node_modules/
+*/node_modules/
+
+# --- Secrets ---
+# Ignore all .env files (VERY IMPORTANT!)
+.env
+*/.env
+
+# --- Build Output ---
+# Ignore React build folder
+frontend/build/
+
+# --- OS Files ---
+# Ignore macOS junk files
+.DS_Store
