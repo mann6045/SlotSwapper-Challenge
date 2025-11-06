@@ -4,7 +4,6 @@ SlotSwapper is a full-stack peer-to-peer time-slot scheduling application. The c
 
 This project was built as a technical challenge using the **MERN** stack (MongoDB, Express, React, Node.js) with JWT for authentication.
 
-*(Optional: Add a link to your live, deployed application here)*
 
 ---
 
